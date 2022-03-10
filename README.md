@@ -17,7 +17,7 @@ Why some brands are so popular and why some brands are not doing well based, on 
 Using this sentiment analysis I want to show that why some major brands are leading and some brands are not doing well. Based on review people try to convey a message that some brands are lacking based on their performance, feature as well as quality.
 
 
-## Deployment
+## Installations
 
 Importing libraries
 
