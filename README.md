@@ -10,7 +10,7 @@ Amazon-Reviews Mobile phone Reviews
 
 ## Motivation
 
-Why some brands are so popular and why some brands are not doing well based, on review trying to under why some popular brands makes the difference and some other brands fall back.
+Why some brands are so popular and why some brands are not doing well based, on review trying to understand why some popular brands makes the difference and some other brands fall back.
 
 ## Sentiment Analysis of Mobile Phones reviews Using NLTK
 
